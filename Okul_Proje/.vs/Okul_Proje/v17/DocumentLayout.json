@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|c:\\users\\fatih enes savc\u0131l\u0131\\source\\repos\\okul_proje\\okul_proje\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|c:\\users\\fatih enes savc\u0131l\u0131\\source\\repos\\okul_proje\\okul_proje\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|c:\\users\\fatih enes savc\u0131l\u0131\\source\\repos\\okul_proje\\okul_proje\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|c:\\users\\fatih enes savc\u0131l\u0131\\source\\repos\\okul_proje\\okul_proje\\views\\shared\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\views\\shared\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|c:\\users\\fatih enes savc\u0131l\u0131\\source\\repos\\okul_proje\\okul_proje\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|c:\\users\\fatih enes savc\u0131l\u0131\\source\\repos\\okul_proje\\okul_proje\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|c:\\users\\fatih enes savc\u0131l\u0131\\source\\repos\\okul_proje\\okul_proje\\migrations\\20240926125229_studentmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\migrations\\20240926125229_studentmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|c:\\users\\fatih enes savc\u0131l\u0131\\source\\repos\\okul_proje\\okul_proje\\views\\shared\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3559261-EEB6-43AF-8B37-1CC0EC188F45}|Okul_Proje\\Okul_Proje.csproj|solutionrelative:okul_proje\\views\\shared\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Okul_Proje\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Okul_Proje\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwGIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:25:23.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Views\\Shared\\Create.cshtml",
+              "RelativeDocumentMoniker": "Okul_Proje\\Views\\Shared\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Views\\Shared\\Create.cshtml",
+              "RelativeToolTip": "Okul_Proje\\Views\\Shared\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T06:24:06.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Views\\Shared\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Okul_Proje\\Views\\Shared\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Views\\Shared\\Edit.cshtml",
+              "RelativeToolTip": "Okul_Proje\\Views\\Shared\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T06:24:05.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Views\\Shared\\Index.cshtml",
+              "RelativeDocumentMoniker": "Okul_Proje\\Views\\Shared\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Views\\Shared\\Index.cshtml",
+              "RelativeToolTip": "Okul_Proje\\Views\\Shared\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T06:24:04.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Okul_Proje\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Okul_Proje\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:23:54.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Models\\StudentDto.cs",
+              "RelativeDocumentMoniker": "Okul_Proje\\Models\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Models\\StudentDto.cs",
+              "RelativeToolTip": "Okul_Proje\\Models\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:23:41.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240926125229_StudentMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Migrations\\20240926125229_StudentMigration.cs",
+              "RelativeDocumentMoniker": "Okul_Proje\\Migrations\\20240926125229_StudentMigration.cs",
+              "ToolTip": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Migrations\\20240926125229_StudentMigration.cs",
+              "RelativeToolTip": "Okul_Proje\\Migrations\\20240926125229_StudentMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:22:59.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Okul_Proje\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Fatih Enes Savc\u0131l\u0131\\source\\repos\\Okul_Proje\\Okul_Proje\\Models\\Student.cs",
+              "RelativeToolTip": "Okul_Proje\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:23:03.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
